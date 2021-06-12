@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dmitry Varin</h1>
-<h3 align="center">I'm a beginner developer, a student of BMSTU Student ICS7.</h3>
+<h3 align="center">A beginner developer, student of BMSTU Student ICS7(2nd year).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flash1ee&label=Profile%20views&color=0e75b6&style=flat" alt="flash1ee" /> </p>
 
