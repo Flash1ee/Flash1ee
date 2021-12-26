@@ -9,6 +9,8 @@
 
 * <h3 align="left">Student of <a href="https://park.vk.company/" >VK Technopark</a>.</h3>
 
+* <h3 align="left"> CV in Russian  <a href="https://drive.google.com/file/d/1oidNXH-HAkLjgfn5qys08GeNRWhd12pf/view?usp=sharing">CV</a>.</h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/dmitry__varin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dmitry__varin" height="30" width="40" /></a>
