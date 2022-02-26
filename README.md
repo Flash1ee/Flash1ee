@@ -15,7 +15,8 @@
 <p align="left">
 <a href="https://instagram.com/dmitry__varin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dmitry__varin" height="30" width="40" /></a>
   <a href="https://vk.com/dmitry_varin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg" alt="dmitry__varin" height="30" width="40" /></a>
-<a href="https://t.me/varindv" target="blank"><img align="center" src="https://www.svgrepo.com/show/303292/telegram-logo.svg" height="30" width="40" /></a> </p>
+<a href="https://t.me/varindv" target="blank"><img align="center" src="https://www.svgrepo.com/show/303292/telegram-logo.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dmitry-varin-24184b21b" target="blank"><img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" height="30" width="40" /></a> </p>
 
 <a href="varindv@gmail.com"><b>Email</b></a>
 
