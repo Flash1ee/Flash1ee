@@ -30,7 +30,7 @@
 
 <h3 align="left">Stats:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Flash1ee&show_icons=true&locale=en" alt="Flash1ee" />
-&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Flash1ee&show_icons=true&locale=en&layout=compact" alt="Flash1ee" />
+&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Flash1ee&show_icons=true&locale=en&layout=compact&exclude_repo=nirs-5th-sem-bmstu&hide=html,javascript" alt="Flash1ee" />
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Flash1ee&" alt="Flash1ee" /></p>
