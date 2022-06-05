@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Flash1ee&label=Profile%20views&color=0e75b6&style=flat" alt="Flash1ee" /> </p>
 
 
-* <h3 align="left">A Backend Golang Intern at <a href="https://www.avito.ru/" >Avito;</a> </h3>
+* <h3 align="left">A Software Engineer (Golang) at <a href="https://www.avito.ru/" >Avito;</a> </h3>
 
 * <h3 align="left"><a href="https://www.bmstu.ru/" >BMSTU</a> Student ICS7(3rd year);</h3>
 
