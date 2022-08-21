@@ -5,7 +5,7 @@
 
 * <h3 align="left">A Software Engineer (Golang) at <a href="https://www.avito.ru/" >Avito;</a> </h3>
 
-* <h3 align="left"><a href="https://www.bmstu.ru/" >BMSTU</a> Student ICS7(3rd year);</h3>
+* <h3 align="left"><a href="https://www.bmstu.ru/" >BMSTU</a> Student ICS7(4rd year);</h3>
 
 * <h3 align="left">Student of <a href="https://park.vk.company/" >VK Technopark</a>.</h3>
 
