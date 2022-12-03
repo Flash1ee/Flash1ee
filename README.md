@@ -16,7 +16,7 @@
 <a href="https://instagram.com/dmitry__varin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dmitry__varin" height="30" width="40" /></a>
   <a href="https://vk.com/dmitry_varin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg" alt="dmitry__varin" height="30" width="40" /></a>
 <a href="https://t.me/varindv" target="blank"><img align="center" src="https://www.svgrepo.com/show/303292/telegram-logo.svg" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/dmitry-varin" target="blank"><img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" height="30" width="40" /></a> </p>
+<a href="https://www.linkedin.com/in/dmitriy-varin/" target="blank"><img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" height="30" width="40" /></a> </p>
 
 <h3 align="left">My email:</h3>
 <p align="left"> <a href="mailto: varindv@gmail.com"> <img src="https://user-images.githubusercontent.com/55987935/168389280-a384acf5-7cd9-41eb-8a8c-1809bcaf81f4.png" alt="email" width="40" height="40"/> </a> </p>
