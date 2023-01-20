@@ -42,7 +42,7 @@
 
 
 <h3 align="left">Stats:</h3>
-<p><img align="left" src="https://github-readme-stats-ruby-one.vercel.app/api?username=Flash1ee&show_icons=true&locale=en&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Flash1ee" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Flash1ee&show_icons=true&locale=en&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Flash1ee" />
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Flash1ee&theme=dark" alt="Flash1ee" />
-  <img align="left" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs?username=Flash1ee&show_icons=true&locale=en&layout=compact&exclude_repo=nirs-5th-sem-bmstu&hide=html,javascript,tex&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Flash1ee" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Flash1ee&show_icons=true&locale=en&layout=compact&exclude_repo=nirs-5th-sem-bmstu&hide=html,javascript,tex&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Flash1ee" />
 </p>
