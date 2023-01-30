@@ -7,7 +7,7 @@
 
 * <h3 align="left"><a href="https://www.bmstu.ru/" >BMSTU</a> Student ICS7(4rd year);</h3>
 
-* <h3 align="left">Student of <a href="https://park.vk.company/" >VK Technopark</a>.</h3>
+* <h3 align="left"> Graduate of the <a href="https://park.vk.company/" >VK Technopark</a> "System architect. Developer of highload systems" (02.2021-12.2022);</h3>
 
 * <h3 align="left"> CV in Russian (actual 26.12.21) - <a href="https://drive.google.com/file/d/1oidNXH-HAkLjgfn5qys08GeNRWhd12pf/view?usp=sharing">link</a>.</h3>
 
